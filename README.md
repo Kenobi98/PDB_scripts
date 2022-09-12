@@ -1,2 +1,2 @@
 # PDB_scripts
-A few scripts to modify PDb files.
+A few scripts to modify PDB files.
